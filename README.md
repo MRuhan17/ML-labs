@@ -16,7 +16,7 @@ This repo documents my **learning journey in ML** through a **project-based appr
 
 ### 🔹 Phase 1: Foundations (Python + Data Handling)
 - [Project 1: Predict Student Scores (Linear Regression)](./Project-1-Linear-Regression-Student-Scores)
-- (Upcoming) Project 2: Simple Recommendation System
+- [Project 2: Student Pass Fail Classification](https://github.com/MRuhan17/ML-labs/tree/main/student-pass-fail-classification)
 - (Upcoming) Project 3: Data Visualization Experiments
 
 ### 🔹 Phase 2: Core ML (Supervised + Unsupervised)
