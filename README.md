@@ -51,4 +51,18 @@ This repo documents my **learning journey in ML** through a **project-based appr
 
 ---
 
-## 📂 Repository Structure
+
+---
+
+## ✨ Goals
+- Learn ML by building 🚧  
+- Document every step 📝  
+- Build a strong **portfolio** for internships & future roles  
+
+---
+
+👨‍💻 Author: **Ruhan**  
+📅 Started: *August 2025*  
+📌 Status: **Work in Progress (WIP)**  
+
+
